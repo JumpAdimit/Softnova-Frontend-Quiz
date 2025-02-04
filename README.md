@@ -3,7 +3,8 @@
 [Live Demo 🚀](https://jumpadimit-bannaidin-web-app.netlify.app/)
 
 ## Overview  
-A modern and user-friendly web application designed to provide an intuitive and seamless experience. Built with responsive design principles, the platform ensures smooth navigation across all devices, including desktops, tablets, and mobile phones.  
+A modern and user-friendly web application designed to provide an intuitive and seamless experience. Built with responsive design principles, the platform ensures smooth navigation across all devices, including desktops, tablets, and mobile phones.
+<img  src="public/0.png" alt="Home">
 
 ## Features Skills
 React: Utilized for building the frontend interface, providing dynamic and interactive components.
