@@ -3,7 +3,7 @@
 [Live Demo 🚀](https://jumpadimit-bannaidin-web-app.netlify.app/)
 
 ## Overview  
-Jumpadimit Bannaidin Web App is a modern and responsive web application designed to provide an engaging user experience. It features a clean UI, smooth navigation, and optimized performance.
+A modern and user-friendly web application designed to provide an intuitive and seamless experience. Built with responsive design principles, the platform ensures smooth navigation across all devices, including desktops, tablets, and mobile phones.  
 
 ## Features Skills
 React: Utilized for building the frontend interface, providing dynamic and interactive components.
@@ -22,14 +22,25 @@ Search Functionality: Implemented a search feature to enable users to find produ
 
 ## Installation & Setup  
 If you want to run this project locally:  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
-Install dependencies:
-sh
-npm install
-Start the development server:
-sh
-npm start
-Open http://localhost:3000/ in your browser.
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/JumpAdimit/Softnova-Frontend-Quiz
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Softnova-Frontend-Quiz
+   ```
+
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
