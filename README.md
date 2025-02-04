@@ -1,17 +1,16 @@
 # BanNaiDin E-commerce Web App  
-
-[Live Demo 🚀](https://jumpadimit-bannaidin-web-app.netlify.app/)
-
-## Overview  
 A modern and user-friendly web application designed to provide an intuitive and seamless experience. Built with responsive design principles, the platform ensures smooth navigation across all devices, including desktops, tablets, and mobile phones.
 <img  src="public/0.png" alt="Home">
 
+## Live Website 
+[Live Demo 🚀](https://jumpadimit-bannaidin-web-app.netlify.app/)
+
 ## Features Skills
-React: Utilized for building the frontend interface, providing dynamic and interactive components.
-Vite: Employed as the build tool to optimize and bundle the project for production.
-Tailwind CSS: Integrated for responsive and customizable styling, enhancing the visual aesthetics of the website.
-Cart Management: Developed functionalities to add, remove, and update items in cart.
-Search Functionality: Implemented a search feature to enable users to find products efficiently based on their preferences.
+- React: Utilized for building the frontend interface, providing dynamic and interactive components.
+- Vite: Employed as the build tool to optimize and bundle the project for production.
+- Tailwind CSS: Integrated for responsive and customizable styling, enhancing the visual aesthetics of the website.
+- Cart Management: Developed functionalities to add, remove, and update items in cart.
+- Search Functionality: Implemented a search feature to enable users to find products efficiently based on their preferences.
 
 ## Technologies Used  
 - React: JavaScript library for building user interfaces.
