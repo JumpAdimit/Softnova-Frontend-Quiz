@@ -1,4 +1,4 @@
-# Basic Frontend E-commerce Web App  
+# BanNaiDin E-commerce Web App  
 
 [Live Demo 🚀](https://jumpadimit-bannaidin-web-app.netlify.app/)
 
